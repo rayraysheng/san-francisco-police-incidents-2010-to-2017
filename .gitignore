@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# geonames api username
+.geonames_username
+
+# census api key
+.census_api_key
+
